@@ -1,2 +1,2 @@
 First noob file line
-Line 2 for new branch [new]
+Line 2 for new branch [new2]

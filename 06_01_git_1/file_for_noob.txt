@@ -1,7 +1,4 @@
 First noob file line
 Line 2 for new branch [new2]
-<<<<<<< HEAD
 about-feature branch
-=======
 Line 3
->>>>>>> noob2b
